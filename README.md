@@ -2,7 +2,7 @@
 
 # Kyle Hosman
 
-**Swift • iOS • C++ • real-time audio • DJ technology**
+**Swift • iOS • C++ • DJ technology**
 
 Independent software engineer building iOS apps, DJ software, and audio tooling
 
