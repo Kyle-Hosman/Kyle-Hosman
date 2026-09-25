@@ -6,7 +6,7 @@
 
 Independent software engineer building iOS apps, DJ software, and audio tooling
 
-[MixRack](https://mixrack.net) • [AnyTask](https://anytaskapp.com/appstore) • [repositories](https://github.com/kylehosman?tab=repositories)
+[MixRack](https://mixrack.net) • [AZ-MODS](https://github.com/Kyle-Hosman/xdj-az-mods) • [AnyTask](https://anytaskapp.com/appstore)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kylehosman&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -17,7 +17,7 @@ I ship software end-to-end, design, build, release, and everything after. Most o
 ## Current projects
 
 - **[MixRack](https://mixrack.net)** — the standalone mixer, FX rack, and drum roll machine your DJ software never gave you. Runs alongside rekordbox with every control MIDI-mapped to your existing deck, and mirrored to a companion app on your phone or tablet. Custom FX racks, VST3 hosting, grid-locked drum rolls, and 4-deck mixing on a 2-channel controller. Built in C++ / JUCE. *Coming soon — [join the waitlist](https://mixrack.net).*
-- **XDJ-AZ mods** — first known root of the XDJ-AZ, and the tooling to do something with it. Building mods that add capabilities the stock firmware doesn't ship, starting with 4-stem playback.
+- **[XDJ-AZ mods](https://github.com/Kyle-Hosman/xdj-az-mods)** — first known root of the XDJ-AZ, and the tooling to do something with it. Building mods that add capabilities the stock firmware doesn't ship, starting with 4-stem playback.
 - **[AnyTask](https://anytaskapp.com/appstore)** — iOS task manager, shipped and on the App Store. SwiftUI throughout, CoreData with CloudKit sync, home screen widgets, App Intents, and StoreKit 2. In active maintenance.
 
 ## Tech
